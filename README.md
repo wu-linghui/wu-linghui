@@ -1,5 +1,6 @@
-### Hi there 👋
 
+<h2>你好 👋</h2>
+<img src="https://visitor-badge.glitch.me/badge?page_id=wu-linghui.wu-linghui" alt="visitor badge" />
 <!--
 **wu-linghui/wu-linghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
