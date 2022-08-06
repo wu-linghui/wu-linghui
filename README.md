@@ -1,5 +1,5 @@
 
-<h2>你好 👋</h2>
+<h2>你好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"></h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wu-linghui.wu-linghui" alt="visitor badge" />
 <!--
 **wu-linghui/wu-linghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
